@@ -75,3 +75,5 @@ crashlytics-build.properties
 # Personal
 /[Aa]ssets/AssetsStore/*
 /[Aa]ssets/FBX/*
+
+/[Bb]ackups/*
