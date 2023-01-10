@@ -68,7 +68,7 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 4389029159048775669}
+  m_DefaultState: {fileID: 5353340928629819654}
 --- !u!1102 &-4672410041677675010
 AnimatorState:
   serializedVersion: 6
@@ -127,7 +127,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: darkstar_v7
+  m_Name: darkstar_v8
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
