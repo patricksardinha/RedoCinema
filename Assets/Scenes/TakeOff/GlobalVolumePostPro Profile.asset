@@ -41,6 +41,34 @@ MonoBehaviour:
   dirtIntensity:
     m_OverrideState: 1
     m_Value: 0
+--- !u!114 &-3683615422404704289
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+  m_Name: Vignette
+  m_EditorClassIdentifier: 
+  active: 1
+  color:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 0, b: 0, a: 1}
+  center:
+    m_OverrideState: 1
+    m_Value: {x: 0.5, y: 0.5}
+  intensity:
+    m_OverrideState: 1
+    m_Value: 0.3
+  smoothness:
+    m_OverrideState: 1
+    m_Value: 0.2
+  rounded:
+    m_OverrideState: 1
+    m_Value: 0
 --- !u!114 &-2749375291082113853
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -56,25 +84,25 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 0.7353872, y: 0.7921859, z: 1, w: 0}
+    m_Value: {x: 0.76974034, y: 0.8112956, z: 1, w: 0}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.97216296, z: 0.82620835, w: 0}
+    m_Value: {x: 0.8963291, y: 1, z: 0.8737869, w: -0.030127535}
   highlights:
     m_OverrideState: 1
-    m_Value: {x: 0.9990503, y: 1, z: 0.7766684, w: 0}
+    m_Value: {x: 0.97442466, y: 1, z: 0.96278495, w: 0}
   shadowsStart:
     m_OverrideState: 1
     m_Value: 0
   shadowsEnd:
     m_OverrideState: 1
-    m_Value: 0.3
+    m_Value: 0.48
   highlightsStart:
     m_OverrideState: 1
-    m_Value: 0.55
+    m_Value: 0.58
   highlightsEnd:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 1.16
 --- !u!114 &-1467276091214902250
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -107,3 +135,4 @@ MonoBehaviour:
   - {fileID: -1467276091214902250}
   - {fileID: -6070637662594526872}
   - {fileID: -2749375291082113853}
+  - {fileID: -3683615422404704289}
