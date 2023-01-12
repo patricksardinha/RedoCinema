@@ -3,7 +3,7 @@
 This project is a rebuilding scene from the movie Top Gun: Maverick. It is inspired by a multitude of micro-scenes during the test flight of the hypersonic plane Darkstar.
 <br></br>
 
-![Screenshot](RedoCinema.mov)
+![Screenshot](RedoCinema_Th.png)
 <br></br>
 
 ## Credits
