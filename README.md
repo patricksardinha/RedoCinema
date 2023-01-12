@@ -10,12 +10,18 @@ This project is a rebuilding scene from the movie Top Gun: Maverick. It is inspi
 
 This project was made by **Unity 2021.3.11f** and use the following assets:
 
-
+- PlanetShader
 - TerrainSampleAssets
+- Unity Particle Pack 5.x
+- Old Hangar
+- HQ Hangar
+- Storage Building
+- LowPolyBuildings
+- Desert Buildings
+- Fantasy Skybox
 
 Some assets were made on **Blender 3.4.1**.
 
-The sound track use is <soundtrack_name>
 <br></br>
 ## Author
 
